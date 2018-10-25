@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1540479228 source:c:\users\alumno-n415\practica15\main.cpp
+	<iostream>
+	"punto.h"
+	"vector.h"
+	"puntoarray.h"
+
+1540475616 source:c:\users\alumno-n415\practica15\src\punto.cpp
+	<iostream>
+	"punto.h"
+
+1540476108 c:\users\alumno-n415\practica15\include\punto.h
+
+1540475944 source:c:\users\alumno-n415\practica15\src\vector.cpp
+	<iostream>
+	"vector.h"
+	"punto.h"
+	<cmath>
+
+1540476108 c:\users\alumno-n415\practica15\include\vector.h
+	"punto.h"
+
+1540478657 source:c:\users\alumno-n415\practica15\src\puntoarray.cpp
+	"puntoarray.h"
+
+1540477614 c:\users\alumno-n415\practica15\include\puntoarray.h
+	"punto.h"
+
